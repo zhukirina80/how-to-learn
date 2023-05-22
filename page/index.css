@@ -24,7 +24,7 @@
 
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 
-@import url(../blocks/header/__subtitle/_active-link/header__subtitle_active-link.css);
+@import url(../blocks/header/__link/header__link.css);
 
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 
@@ -52,21 +52,21 @@
 
 @import url(../blocks/section-title/section-title.css);
 
-@import url(../blocks/section-title/__theme/section-title__theme_white.css);
+@import url(../blocks/section-title/_theme/section-title_theme_white.css);
 
-@import url(../blocks/section-title/__theme/section-title__theme_dark.css);
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 
 @import url(../blocks/section-subtitle/section-subtitle.css);
 
-@import url(../blocks/section-subtitle/__theme/section-subtitle__theme_white.css);
+@import url(../blocks/section-subtitle/_theme/section-subtitle_theme_white.css);
 
-@import url(../blocks/section-subtitle/__theme/section-subtitle__theme_dark.css);
+@import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 
 @import url(../blocks/table/table.css);
 
-@import url(../blocks/table/__theme/table__theme_white.css);
+@import url(../blocks/table/_theme/table_theme_white.css);
 
-@import url(../blocks/table/__theme/table__theme_dark.css);
+@import url(../blocks/table/_theme/table_theme_dark.css);
 
 @import url(../blocks/table/__cell/_theme/table__cell_theme_white.css);
 
