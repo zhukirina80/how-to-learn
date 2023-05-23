@@ -72,13 +72,9 @@
 
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 
-@import url(../blocks/table/__heading/_theme/table__heading_theme_white.css);
+@import url(../blocks/table/__heading/table__heading.css);
 
-@import url(../blocks/table/__heading/_theme/table__heading_theme_dark.css);
-
-@import url(../blocks/table/__text/_theme/table__text_theme_white.css);
-
-@import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
+@import url(../blocks/table/__text/table__text.css);
 
 @import url(../blocks/techniques/techniques.css);
 
@@ -150,11 +146,13 @@
 
 @import url(../blocks/footer/__columns/footer__columns.css);
 
-@import url(../blocks/footer/__columns/_content/footer__column_content_copyright.css);
+@import url(../blocks/footer/__column/footer__column.css);
 
-@import url(../blocks/footer/__columns/_content/footer__column_content_info.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
 
-@import url(../blocks/footer/__columns/_content/footer__column_content_social.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_info.css);
+
+@import url(../blocks/footer/__column/_content/footer__column_content_social.css);
 
 @import url(../blocks/footer/__author/footer__author.css);
 
