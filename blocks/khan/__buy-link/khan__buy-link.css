@@ -4,5 +4,5 @@
   line-height: 42px;
   font-weight: normal;
   color: #2f80ed;
-  text-decoration: none;
+  align-self: flex-start;
 }

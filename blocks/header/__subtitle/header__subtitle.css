@@ -1,6 +1,6 @@
 .header__subtitle {
   margin: 0;
-  width: 388px;
+  max-width: 388px;
   font-size: 18px;
   line-height: 25px;
   color: #000000;
